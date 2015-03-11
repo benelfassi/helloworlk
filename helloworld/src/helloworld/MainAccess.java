@@ -7,6 +7,7 @@ public class MainAccess {
 System.out.println("Hello world");
 System.out.println("second hello world");
 System.out.println("added new branch called test1");
+System.out.println("added new branch called test2");
 	}
 
 }
